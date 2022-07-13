@@ -43,19 +43,31 @@
     }
   
     .slide-1 {
+      /*
       background-image: url(https://rexburgxdisplays-s3uploadbucket-r7kuydo6o2j3.s3.us-west-1.amazonaws.com/RexDisAd1.jpg);
+      */
+      background-image: url(https://github.com/RexDis/DisRex/blob/main/mysite/mysite/WebSite%20Pages/RexDisAd1.PNG);
     }
   
     .slide-2 {
+      /*
       background-image: url(https://rexburgxdisplays-s3uploadbucket-r7kuydo6o2j3.s3.us-west-1.amazonaws.com/RexDisMapCampus.jpg);
+      */
+      background-image: url(https://github.com/RexDis/DisRex/blob/main/mysite/mysite/WebSite%20Pages/RexDisMap1.PNG);
     }
   
     .slide-3 {
+      /*
       background-image: url(https://rexburgxdisplays-s3uploadbucket-r7kuydo6o2j3.s3.us-west-1.amazonaws.com/RexDisAd2.jpg);
+      */
+      background-image: url(https://github.com/RexDis/DisRex/blob/main/mysite/mysite/WebSite%20Pages/RexDisAd2.PNG);
     }
   
     .slide-4 {
+      /*
       background-image: url(https://rexburgxdisplays-s3uploadbucket-r7kuydo6o2j3.s3.us-west-1.amazonaws.com/RexDisMapFood.jpg);
+      */
+      background-image: url(https://github.com/RexDis/DisRex/blob/main/mysite/mysite/WebSite%20Pages/RexDisMap2.PNG);
     }
   
   
